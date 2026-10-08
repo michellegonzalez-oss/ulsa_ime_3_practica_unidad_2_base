@@ -1,5 +1,5 @@
 # Práctica Unidad II — Simulador de Semáforo y Conductores
-
+fernando brayan   serrato michelle 
 Programación Orientada a Objetos — Mecatrónica 3er semestre — La Salle Saltillo
 
 ## Descripción
